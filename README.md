@@ -1,6 +1,6 @@
 # hello-openai
 
-Simple OPENAI query from CLI
+Easy OPENAI query, from command line (CLI)
 
 * Example 1:
   hello-openai.exe --query="act as only one word response: ¿ What is the capital of Spain?"
