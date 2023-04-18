@@ -28,3 +28,5 @@ and the output is:
 
 * Example 3 - salida redirec output to a new file tabla.txt :
   hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
+
+and the output is a new file tabla.txt
