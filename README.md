@@ -2,11 +2,12 @@
 
 Easy OPENAI query, from command line (CLI)
 + OPENAI_APIKEY Environment variable requirements, example on Windows Power shell: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
-+ from https://platform.openai.com/account/api-keys
+give one from https://platform.openai.com/account/api-keys
 
 
 * Example 1:
   hello-openai.exe --query="act as only one word response: ¿What is the capital of Spain?"
+  
 and the output is:
 Madrid.
   
