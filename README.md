@@ -42,3 +42,5 @@ We have taken reasonable steps to ensure that the executable is free from viruse
 We will not be responsible for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from the use of this executable.
 
 By using this executable, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
+
+Virus checked: https://online273.drweb.com/cache/?i=498b423f98bd5a1b699a788034218081
