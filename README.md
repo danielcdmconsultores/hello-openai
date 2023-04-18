@@ -1,17 +1,19 @@
 # hello-openai
 
-Easy OPENAI query, from command line (CLI)
-+ OPENAI_APIKEY Environment variable requirements, example on Windows Power shell: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
-give one from https://platform.openai.com/account/api-keys
+Easy OPENAI query, from command line interpreter (CLI)
 
++ Requerements: OPENAI_APIKEY Environment variable. Example on Windows Power shell: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
+give one APIKEY from https://platform.openai.com/account/api-keys
 
-* Example 1:
+-------------------------------------------------------------------
+
+* Example 1 - pregunta simple:
   hello-openai.exe --query="act as only one word response: ¿What is the capital of Spain?"
   
 and the output is:
 Madrid.
   
-* Example 2:
+* Example 2 - crear una tabla:
   hello-openai.exe --query="Crea una tabla con 5 nombres y 1 apellidos cada uno, con edades entre 18 y 99 años. y un numero de hijos cualquiera para una simulación"
 
 and the output is:
@@ -22,3 +24,7 @@ and the output is:
 | Julia    | Fernández | 32   | 0               |
 | Miguel   | Hernández | 60   | 3               |
 | Carolina | Ortiz     | 78   | 4               |
+
+
+* Example 3 - salida redireccionada a un fichero:
+  hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
