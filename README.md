@@ -10,8 +10,9 @@ It is an executable ready to use, and an easy form to make queries & questions t
 
 📋 Requirements: 
 
-OPENAI_APIKEY Environment variable. Example on Windows Powershell, to set a enviroment variable: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
-give one APIKEY from https://platform.openai.com/account/api-keys
+A valid APIKEY from https://platform.openai.com/account/api-keys
+and set OPENAI_APIKEY Environment variable. Example on Windows Powershell, to set a enviroment variable: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
+
 
 🔧 Usage
 
