@@ -9,19 +9,23 @@ It is an executable ready to use, and an easy form to make queries & questions t
 + Programs that run commands, can now call OPENAI directly.
 
 📋 Requirements: 
+
 OPENAI_APIKEY Environment variable. Example on Windows Powershell, to set a enviroment variable: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
 give one APIKEY from https://platform.openai.com/account/api-keys
 
 🔧 Usage
+
 hello-openai.exe --query="any questions"
 
 💡 Example 1 - simple question:
-  hello-openai.exe --query="act as only one word response: ¿What is the capital of Spain?"
+
+hello-openai.exe --query="act as only one word response: ¿What is the capital of Spain?"
 and the output is:
   Madrid.
   
 * Example 2 - create a text table in spanish:
-  hello-openai.exe --query="Crea una tabla con 5 nombres y 1 apellidos cada uno, con edades entre 18 y 99 años. y un numero de hijos cualquiera para una simulación"
+
+hello-openai.exe --query="Crea una tabla con 5 nombres y 1 apellidos cada uno, con edades entre 18 y 99 años. y un numero de hijos cualquiera para una simulación"
 and the output is:
 | Nombre   | Apellido  | Edad | Número de hijos |
 |----------|-----------|------|-----------------|
@@ -32,11 +36,13 @@ and the output is:
 | Carolina | Ortiz     | 78   | 4               |
 
 * Example 3 - redirec output to a new file tabla.txt :
-  hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
+
+hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
 and the output is a new file tabla.txt
 
 --------------------------------------------------------------------
-Disclaimer of responsibilities for executable:
+
+* Disclaimer of responsibilities for executable:
 
 The following executable file is provided as-is and without any warranty or guarantee of any kind, whether express or implied. The use of this executable is at your own risk, and we do not assume any responsibility for any consequences that may arise from its use.
 
