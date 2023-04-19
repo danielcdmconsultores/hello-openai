@@ -7,7 +7,8 @@ It is an executable ready to use, and an easy form to make queries & questions t
 + Use it in a script, ready to run from a task. (lots, ..)
 + You can redirect standard output to a file.
 + Programs that run commands, can now call OPENAI directly.
-+ Made with love in GOlang ![image](https://user-images.githubusercontent.com/31433247/233003187-65d8caa8-9af4-4c5c-8154-e9f523b9b4c9.png)
++ Made with love in GOlang ![Uploading favicon-gopher.png…]()
+
 
 
 📋 Requirements: 
