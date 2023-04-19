@@ -1,21 +1,27 @@
 # hello-openai
+It is an executable ready to use, and an easy form to make queries & questions to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
 
-Easy OPENAI query, from command line interpreter (CLI)
+🚀 Features
 
-+ Requirements: OPENAI_APIKEY Environment variable. Example on Windows Powershell: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
+-You can perform automation from the command line.
+-Use it in a script, ready to run from a task. (lots, ..)
+-You can redirect standard output to a file.
+-Programs that run commands, can now call OPENAI directly.
+
+📋 Requirements: 
+OPENAI_APIKEY Environment variable. Example on Windows Powershell, to set a enviroment variable: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
 give one APIKEY from https://platform.openai.com/account/api-keys
 
--------------------------------------------------------------------
+🔧 Usage
+hello-openai.exe --query="any questions"
 
-* Example 1 - simple question:
+💡 Example 1 - simple question:
   hello-openai.exe --query="act as only one word response: ¿What is the capital of Spain?"
-  
 and the output is:
-Madrid.
+  Madrid.
   
-* Example 2 - create a text table:
+* Example 2 - create a text table in spanish:
   hello-openai.exe --query="Crea una tabla con 5 nombres y 1 apellidos cada uno, con edades entre 18 y 99 años. y un numero de hijos cualquiera para una simulación"
-
 and the output is:
 | Nombre   | Apellido  | Edad | Número de hijos |
 |----------|-----------|------|-----------------|
@@ -25,12 +31,9 @@ and the output is:
 | Miguel   | Hernández | 60   | 3               |
 | Carolina | Ortiz     | 78   | 4               |
 
-
-* Example 3 - salida redirec output to a new file tabla.txt :
+* Example 3 - redirec output to a new file tabla.txt :
   hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
-
 and the output is a new file tabla.txt
-
 
 --------------------------------------------------------------------
 Disclaimer of responsibilities for executable:
