@@ -1,5 +1,5 @@
 # hello-openai
-It is an executable ready to use, and an easy form to make queries & questions to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
+ℹ️ It is an executable ready to use, and an easy form to make queries & questions to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
 
 🚀 Features
 
@@ -7,9 +7,7 @@ It is an executable ready to use, and an easy form to make queries & questions t
 + Use it in a script, ready to run from a task. (lots, ..)
 + You can redirect standard output to a file.
 + Programs that run commands, can now call OPENAI directly.
-+ Made with love in GOlang ![Uploading favicon-gopher.png…]()
-
-
++ Made with love🤟in GOlang 
 
 📋 Requirements: 
 
@@ -46,7 +44,7 @@ and the output is a new file tabla.txt
 
 --------------------------------------------------------------------
 
-* Disclaimer of responsibilities for executable:
+* :Disclaimer of responsibilities for executable:
 
 The following executable file is provided as-is and without any warranty or guarantee of any kind, whether express or implied. The use of this executable is at your own risk, and we do not assume any responsibility for any consequences that may arise from its use.
 
