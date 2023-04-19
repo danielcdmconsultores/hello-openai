@@ -3,10 +3,10 @@ It is an executable ready to use, and an easy form to make queries & questions t
 
 🚀 Features
 
--You can perform automation from the command line.
--Use it in a script, ready to run from a task. (lots, ..)
--You can redirect standard output to a file.
--Programs that run commands, can now call OPENAI directly.
++You can perform automation from the command line.
++Use it in a script, ready to run from a task. (lots, ..)
++You can redirect standard output to a file.
++Programs that run commands, can now call OPENAI directly.
 
 📋 Requirements: 
 OPENAI_APIKEY Environment variable. Example on Windows Powershell, to set a enviroment variable: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
