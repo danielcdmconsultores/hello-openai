@@ -23,7 +23,7 @@ hello-openai.exe --query="act as only one word response: ¿What is the capital o
 and the output is:
   Madrid.
   
-* Example 2 - create a text table in spanish:
+💡 Example 2 - create a text table in spanish:
 
 hello-openai.exe --query="Crea una tabla con 5 nombres y 1 apellidos cada uno, con edades entre 18 y 99 años. y un numero de hijos cualquiera para una simulación"
 and the output is:
@@ -35,7 +35,7 @@ and the output is:
 | Miguel   | Hernández | 60   | 3               |
 | Carolina | Ortiz     | 78   | 4               |
 
-* Example 3 - redirec output to a new file tabla.txt :
+💡 Example 3 - redirec output to a new file tabla.txt :
 
 hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
 and the output is a new file tabla.txt
