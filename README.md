@@ -1,10 +1,10 @@
 # hello-openai
-ℹ️ It is an executable ready to use, and an easy form to make queries & questions to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
+ℹ️ It is an executable "ready to use", and an easy way to make queries & questions to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
 
 🚀 Features
 
-+ You can perform automation from the command line.
-+ Use it in a script, ready to run from a task. (lots, ..)
++ You can perform automation from the command line. (Powershell or Terminal)
++ Use it in a script, ready to run from a task. (lots, .bat, ...)
 + You can redirect standard output to a file.
 + Programs that run commands, can now call OPENAI directly.
 + Made with love🤟in GOlang 
@@ -17,7 +17,7 @@ and set OPENAI_APIKEY Environment variable. Example on Windows Powershell, to se
 
 🔧 Usage
 
-hello-openai.exe --query="any questions"
+hello-openai.exe --query="any questions or prompt"
 
 💡 Example 1 - simple question:
 
@@ -44,14 +44,14 @@ and the output is a new file tabla.txt
 
 --------------------------------------------------------------------
 
-* :Disclaimer of responsibilities for executable:
+* Disclaimer of responsibilities for executable:
 
-The following executable file is provided as-is and without any warranty or guarantee of any kind, whether express or implied. The use of this executable is at your own risk, and we do not assume any responsibility for any consequences that may arise from its use.
+The following executables files are provided as-is and without any warranty or guarantee of any kind, whether express or implied. The use of these executables is at your own risk, and we do not assume any responsibility for any consequences that may arise from its use.
 
 We have taken reasonable steps to ensure that the executable is free from viruses, malware, or any other harmful components. However, we cannot guarantee that the executable is completely free from such elements, and we will not be liable for any damages or losses that may result from any virus, malware, or other harmful components that may infect your system or cause damage to your files.
 
 We will not be responsible for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from the use of this executable.
 
-By using this executable, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
+By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
-Virus checked: https://online273.drweb.com/cache/?i=498b423f98bd5a1b699a788034218081
+Virus checked:  https://online620.drweb.com/cache/?i=ea26b9025f9fc4e64529e422517b7f8e
