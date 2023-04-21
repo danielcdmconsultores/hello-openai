@@ -1,5 +1,5 @@
 # hello-openai
-ℹ️ It is an executable "ready to use", and an easy way to make queries & questions to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
+ℹ️ It is an executable "ready to use", and an easy way to make queries & questions (prompts) to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
 
 🚀 Features
 
