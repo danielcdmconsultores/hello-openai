@@ -12,7 +12,7 @@
 📋 Requirements: 
 
 A valid APIKEY from https://platform.openai.com/account/api-keys
-and set OPENAI_APIKEY Environment variable. Example on Windows Powershell, to set a enviroment variable: $env:OPENAI_APIKEY = 'YOUR_API_KEY'
+and set OPENAI_APIKEY Environment variable. Example on Windows Powershell, to set a enviroment variable: ``` $env:OPENAI_APIKEY = 'YOUR_API_KEY'``` 
 
 
 🔧 Usage
