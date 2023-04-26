@@ -1,6 +1,10 @@
 # hello-openai
 ℹ️ It is an executable .exe "ready to use", and an easy way to make queries & questions (prompts) to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
 
+![hello-openai](https://user-images.githubusercontent.com/31433247/234617067-e7223e37-48bc-4df2-8d32-b74ae5f681d0.gif)
+
+
+
 🚀 Features
 
 + You can perform automation from the command line. (Powershell, Terminal, command.com, ...)
@@ -37,13 +41,13 @@ and the output is:
 | Fausto    | Fortunato  | 64   | 4     |
 | Florinda  | Vega       | 18   | 1     |
 
-💡 Example 2 - create a text table in spanish:
+💡 Example 3 - redirec output to a new file tabla.txt:
 
-``` ./hello-openai.exe --query="Comportate como un simulador. Crea una tabla con 5 nombres y un apellido cada uno, con edades entre 18 y 99 años. y un numero de hijos cualquiera. Estos datos son totalmente inventados así que no sean comunes" ``` 
-💡 Example 3 - redirec output to a new file tabla.txt :
+``` ./hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt ```
+and the output is a file with the table inside
 
-``` ./hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
-and the output is a new file tabla.txt ``` 
+
+
 --------------------------------------------------------------------
 
 * Disclaimer of responsibilities for executable:
