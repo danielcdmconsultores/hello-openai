@@ -37,6 +37,11 @@ and the output is:
 | Fausto    | Fortunato  | 64   | 4     |
 | Florinda  | Vega       | 18   | 1     |
 
+
+💡 Example 3 - redirec output to a new file tabla.txt :
+
+``` ./hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
+and the output is a new file tabla.txt ``` 
 --------------------------------------------------------------------
 
 * Disclaimer of responsibilities for executable:
