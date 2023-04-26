@@ -1,11 +1,11 @@
 # hello-openai
-ℹ️ It is an executable "ready to use", and an easy way to make queries & questions (prompts) to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
+ℹ️ It is an executable .exe "ready to use", and an easy way to make queries & questions (prompts) to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
 
 🚀 Features
 
-+ You can perform automation from the command line. (Powershell or Terminal)
-+ Use it in a script, ready to run from a task. (lots, .bat, ...)
-+ You can redirect standard output to a file.
++ You can perform automation from the command line. (Powershell, Terminal, command.com, ...)
++ Use it in a script, ready to run from a task. (lots, .bat, "Windows Task Scheduler" ...)
++ You can redirect standard output to a new file ">" or ">>"
 + Programs that run commands, can now call OPENAI directly.
 + Made with love🤟in GOlang 
 
@@ -41,6 +41,10 @@ and the output is:
 
 ``` ./hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
 and the output is a new file tabla.txt ``` 
+
+![Uploading hello-openai.gif…]()
+
+
 
 --------------------------------------------------------------------
 
