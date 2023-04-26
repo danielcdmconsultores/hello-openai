@@ -37,7 +37,9 @@ and the output is:
 | Fausto    | Fortunato  | 64   | 4     |
 | Florinda  | Vega       | 18   | 1     |
 
+💡 Example 2 - create a text table in spanish:
 
+``` ./hello-openai.exe --query="Comportate como un simulador. Crea una tabla con 5 nombres y un apellido cada uno, con edades entre 18 y 99 años. y un numero de hijos cualquiera. Estos datos son totalmente inventados así que no sean comunes" ``` 
 💡 Example 3 - redirec output to a new file tabla.txt :
 
 ``` ./hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt
