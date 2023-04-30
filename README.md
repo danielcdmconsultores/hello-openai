@@ -1,8 +1,7 @@
 # hello-openai
 ℹ️ It is an executable .exe "ready to use", and an easy way to make queries & questions (prompts) to OPENAI, from a command line interpreter (CLI) for Windows, Linux, Mac
 
-![image](https://user-images.githubusercontent.com/31433247/235306409-014d9fa0-d96b-4ddd-9832-fe6cffebdf81.png)
-
+![example of hello-openai](https://media.licdn.com/dms/image/D4D22AQH29Q0BKgwpeQ/feedshare-shrink_1280/0/1682776101463?e=1685577600&v=beta&t=LfbGaYmwCK6idtp3yUxihKvPNmWaPBJZY-ib8HgKVTQ)
 
 
 🚀 Features
@@ -10,7 +9,8 @@
 + You can perform automation from the command line. (Powershell, Terminal, command.com, ...)
 + Use it in a script, ready to run from a task. (lots, .bat, "Windows Task Scheduler" ...)
 + You can redirect standard output to a new file ">" or ">>"
-+ Programs that run commands, can now call OPENAI directly.
++ Terminate the program with an exit code of (1), indicating an error. Use (0) if everything has worked well.
++ Programs that run commands, can call OPENAI directly now.
 + Made with love🤟in GOlang 
 
 📋 Requirements: 
