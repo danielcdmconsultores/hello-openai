@@ -1,7 +1,7 @@
 # hello-openai
 ℹ️ It is an executable .exe "ready to use" and an easy way to make queries & questions (prompts) to OPENAI, from a command line interface (CLI) for Windows, Linux, Mac
 
-[https://github.com/danielcdmconsultores/hello-openai/blob/main/hello-openai.gif](https://raw.githubusercontent.com/danielcdmconsultores/hello-openai/main/hello-openai.gif)
+![](hello-openai.gif)
 
 🚀 Features
 
