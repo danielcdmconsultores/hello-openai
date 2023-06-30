@@ -10,7 +10,8 @@
 + You can redirect standard output to a new file ">" or ">>"
 + Terminate the program with an exit code of (1), indicating an error. Use (0) if everything has worked well.
 + Programs that run commands, can call OPENAI directly now.
-+ Made with love🤟in GOlang 
++ Made with love🤟in GOlang
++ Model: GPT3.5Turbo
 
 📋 Requirements: 
 
