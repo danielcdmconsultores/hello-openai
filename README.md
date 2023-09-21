@@ -60,4 +60,4 @@ We will not be responsible for any loss or damage, including without limitation,
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
-Virus checked: https://online.drweb.com/result2/?mode=show_stored&id=orc_1688116305_e02e54f9aec6bf0c095e6cb88f9e7fc5&lng=en
+Virus checked: [https://online.drweb.com/result2/?mode=show_stored&id=orc_1688116305_e02e54f9aec6bf0c095e6cb88f9e7fc5&lng=en](https://online.drweb.com/result2/?mode=show_stored&id=orc_1695292554_69fc4cd5d69370d1161cae26f048c010&lng=en)https://online.drweb.com/result2/?mode=show_stored&id=orc_1695292554_69fc4cd5d69370d1161cae26f048c010&lng=en
