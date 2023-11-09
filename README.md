@@ -46,7 +46,17 @@ and the output is:
 ``` ./hello-openai.exe --query="crea una tabla de texto con los 10 libros más famosos del mundo" > tabla.txt ```
 and the output is a file with the table inside
 
+💡 Example 4 - commands for your terminal/powershell:
 
+``` .\hello-openai.exe --query="Write the PowerShell command to list the files from largest to smallest size, including subdirectories. It doesn't show any explanation, just the command to paste it into the console"  ```
+
+and the output is the new command for your terminal: 
+
+**Get-ChildItem -Recurse | Sort-Object Length -Descending | Select-Object FullName, Length, LastWriteTime**
+
+that can you copy-paste on the PowerShell terminal, for example :
+
+![image](https://github.com/danielcdmconsultores/hello-openai/assets/31433247/9aa7b9b2-6683-4a6a-8bbc-8e15b37b3d6b)
 
 --------------------------------------------------------------------
 
