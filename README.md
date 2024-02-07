@@ -9,14 +9,14 @@
 + Use it in a script, ready to run from a task. (lots, .bat, "Windows Task Scheduler" ...)
 + You can redirect standard output to a new file ">" or ">>"
 + Terminate the program with an exit code of (1), indicating an error. Use (0) if everything has worked well.
-+ Programs that run commands, can call OPENAI directly now.
++ Programs that run commands can call OPENAI directly now.
 + Made with love🤟in GOlang
 + Model: GPT3.5Turbo
 
 📋 Requirements: 
 
 A valid APIKEY from https://platform.openai.com/account/api-keys
-and set OPENAI_APIKEY Environment variable. Example on Windows Powershell, to set a enviroment variable: ``` $env:OPENAI_APIKEY = 'YOUR_API_KEY'``` 
+and set OPENAI_APIKEY Environment variable. For example on Windows Powershell, to set an environment variable: ``` $env:OPENAI_APIKEY = 'YOUR_API_KEY'``` 
 
 
 🔧 Usage
@@ -70,5 +70,5 @@ We will not be responsible for any loss or damage, including without limitation,
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
-Virus checked: [https://online.drweb.com/result2/?mode=show_stored&id=orc_1704366336_2ea53e1a2d67c9a548ebea2f38b533be&lng=en]
+Virus checked: [[https://online.drweb.com/result2/?mode=show_stored&id=orc_1704366336_2ea53e1a2d67c9a548ebea2f38b533be&lng=en](https://online.drweb.com/result2/?mode=show_stored&id=orc_1707292485_dac7823cb8e698bbac19a009226c2c22&lng=en)https://online.drweb.com/result2/?mode=show_stored&id=orc_1707292485_dac7823cb8e698bbac19a009226c2c22&lng=en]
 
