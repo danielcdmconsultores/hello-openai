@@ -54,9 +54,7 @@ and the output is the new command for your terminal:
 
 **Get-ChildItem -Recurse | Sort-Object Length -Descending | Select-Object FullName, Length, LastWriteTime**
 
-that can you copy-paste on the PowerShell terminal, for example :
-
-![image]([https://github.com/danielcdmconsultores/hello-openai/assets/31433247/9aa7b9b2-6683-4a6a-8bbc-8e15b37b3d6b])
+that can you copy-paste on the PowerShell terminal.
 
 --------------------------------------------------------------------
 
