@@ -70,5 +70,5 @@ We will not be responsible for any loss or damage, including without limitation,
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
-Virus checked: [https://online.drweb.com/result2/?mode=show_stored&id=orc_1713168499_3760dd934396932b9893477e316b848f&lng=en]
+Virus checked: [[https://online.drweb.com/result2/?mode=show_stored&id=orc_1713168499_3760dd934396932b9893477e316b848f&lng=en]]
 
