@@ -56,7 +56,7 @@ and the output is the new command for your terminal:
 
 that can you copy-paste on the PowerShell terminal, for example :
 
-![image]([https://github.com/danielcdmconsultores/hello-openai/assets/31433247/9aa7b9b2-6683-4a6a-8bbc-8e15b37b3d6b](https://online.drweb.com/result2/?mode=show_stored&id=orc_1716389914_cffb74fab95efde5b145087831c20f03&lng=en))
+![image]([https://github.com/danielcdmconsultores/hello-openai/assets/31433247/9aa7b9b2-6683-4a6a-8bbc-8e15b37b3d6b])
 
 --------------------------------------------------------------------
 
@@ -70,5 +70,5 @@ We will not be responsible for any loss or damage, including without limitation,
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
-Virus checked: [[https://online.drweb.com/result2/?mode=show_stored&id=orc_1713168499_3760dd934396932b9893477e316b848f&lng=en]]
+Virus checked: [(https://online.drweb.com/result2/?mode=show_stored&id=orc_1716390032_013e9bf56244b83f87d06e485709cf55&lng=en)](https://online.drweb.com/result2/?mode=show_stored&id=orc_1716390032_013e9bf56244b83f87d06e485709cf55&lng=en)
 
