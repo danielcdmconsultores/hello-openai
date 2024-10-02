@@ -68,5 +68,5 @@ We will not be responsible for any loss or damage, including without limitation,
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
-Virus checked: [[(https://online.drweb.com/result2/?mode=show_stored&id=orc_1716390032_013e9bf56244b83f87d06e485709cf55&lng=en)](https://online.drweb.com/result2/?mode=show_stored&id=orc_1722950189_9ee6327645b11c1adb7debacedebf11a&lng=en)]
+Virus checked: [[[(https://online.drweb.com/result2/?mode=show_stored&id=orc_1716390032_013e9bf56244b83f87d06e485709cf55&lng=en)](https://online.drweb.com/result2/?mode=show_stored&id=orc_1722950189_9ee6327645b11c1adb7debacedebf11a&lng=en)]](https://www.virustotal.com/gui/file/fd1f384e457226c7edd788d2bc2abe7fb3806720c9056e52f1e7f6594a293620?nocache=1)
 
