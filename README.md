@@ -50,11 +50,11 @@ and the output is a file with the table inside
 
 ``` .\hello-openai.exe --query="Write the PowerShell command to list the files from largest to smallest size, including subdirectories. It doesn't show any explanation, just the command to paste it into the console"  ```
 
-and the output is the new command for your terminal: 
+And the output is the new command for your terminal: 
 
 **Get-ChildItem -Recurse | Sort-Object Length -Descending | Select-Object FullName, Length, LastWriteTime**
 
-that can you copy-paste on the PowerShell terminal.
+You can paste & copy on the PowerShell terminal.
 
 --------------------------------------------------------------------
 
@@ -67,6 +67,4 @@ We have taken reasonable steps to ensure that the executable is free from viruse
 We will not be responsible for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from the use of this executable.
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
-
-Virus checked: [VirusTotal](https://www.virustotal.com/gui/file/fd1f384e457226c7edd788d2bc2abe7fb3806720c9056e52f1e7f6594a293620?nocache=1)
 
