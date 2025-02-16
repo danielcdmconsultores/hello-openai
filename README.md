@@ -68,3 +68,5 @@ We will not be responsible for any loss or damage, including without limitation,
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
+Passed latest Win Version at Virustotal!: https://www.virustotal.com/gui/file/bb01a00ecedef8442d0392ee02c50a6f5ce57f638aa5d64eddbe782b90310cd5
+
