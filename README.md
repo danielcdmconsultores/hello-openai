@@ -1,5 +1,5 @@
 # hello-openai
-ℹ️ It is an executable .exe "ready to use" and an easy way to make queries & questions (prompts) to OPENAI, from a command line interface (CLI) for Windows, Linux, Mac
+ℹ️ It is an executable .exe "ready to use" and an easy way to make queries & questions (prompts) to OPENAI, from a command line interface (CLI) for Windows, Linux, and Mac
 
 ![](hello-openai.gif)
 
@@ -9,7 +9,7 @@
 + Use it in a script, ready to run from a task. (lots, .bat, "Windows Task Scheduler" ...)
 + You can redirect standard output to a new file ">" or ">>"
 + Terminate the program with an exit code of (1), indicating an error. Use (0) if everything has worked well.
-+ Programs that run commands can call OPENAI directly now.
++ Programs that run commands can now call OPENAI directly.
 + Made with love🤟in GOlang
 + Model: GPT3.5Turbo
 
@@ -64,9 +64,10 @@ The following executables files are provided as-is and without any warranty or g
 
 We have taken reasonable steps to ensure that the executable is free from viruses, malware, or any other harmful components. However, we cannot guarantee that the executable is completely free from such elements, and we will not be liable for any damages or losses that may result from any virus, malware, or other harmful components that may infect your system or cause damage to your files.
 
-We will not be responsible for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from the use of this executable.
+We will not be responsible for any loss or damage, including, without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from the use of this executable.
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
-Passed latest Win Version at Virustotal!: https://www.virustotal.com/gui/file/bb01a00ecedef8442d0392ee02c50a6f5ce57f638aa5d64eddbe782b90310cd5
+Passed latest Win Version at Virustotal!: https://www.virustotal.com/gui/file/52a03867a5ce121202bd11fceb82300ad16fb67cffc899630619ae5281739b0f?nocache=1
+
 
