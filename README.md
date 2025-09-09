@@ -24,22 +24,31 @@ and set OPENAI_APIKEY Environment variable. For example on Windows Powershell, t
   hello-openai --query="your prompt here" [options]
 
 Options:
+
   -help
         Show help information
+
   -max-tokens int
         Maximum tokens in response (default 1000)
+  
   -model string
         OpenAI model to use (gpt-3.5-turbo, gpt-4, gpt-4-turbo) (default "gpt-3.5-turbo")
+  
   -query string
         Prompt to send to the AI
+  
   -system string
         System message to set AI behavior
+  
   -temperature float
         Temperature for response creativity (0.0-2.0) (default 0.7)
+  
   -timeout int
         Request timeout in seconds (default 30)
+  
   -verbose
         Show detailed information
+  
   -version
         Show version information
 
