@@ -21,7 +21,28 @@ and set OPENAI_APIKEY Environment variable. For example on Windows Powershell, t
 
 🔧 Usage
 
-hello-openai.exe --query="any questions or prompt"
+  hello-openai --query="your prompt here" [options]
+
+Options:
+  -help
+        Show help information
+  -max-tokens int
+        Maximum tokens in response (default 1000)
+  -model string
+        OpenAI model to use (gpt-3.5-turbo, gpt-4, gpt-4-turbo) (default "gpt-3.5-turbo")
+  -query string
+        Prompt to send to the AI
+  -system string
+        System message to set AI behavior
+  -temperature float
+        Temperature for response creativity (0.0-2.0) (default 0.7)
+  -timeout int
+        Request timeout in seconds (default 30)
+  -verbose
+        Show detailed information
+  -version
+        Show version information
+
 
 💡 Example 1 - simple question:
 
@@ -56,6 +77,9 @@ And the output is the new command for your terminal:
 
 You can paste & copy on the PowerShell terminal.
 
+
+
+
 --------------------------------------------------------------------
 
 * Disclaimer of responsibilities for executable:
@@ -68,7 +92,7 @@ We will not be responsible for any loss or damage, including, without limitation
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
-Passed latest Win Version at Virustotal!: https://www.virustotal.com/gui/file/2dd1ff162ddd66cf0097229b2b6c30ab0e4167d230c7d30ba591da624e2fb537/detection 
+Win Version at Virustotal!: [https://www.virustotal.com/gui/file/2dd1ff162ddd66cf0097229b2b6c30ab0e4167d230c7d30ba591da624e2fb537/detection ](https://www.virustotal.com/gui/file/92e1de5bece2b88f68636e872905b3e21c21b883486e7e2f52e8e1648485725f?nocache=1)
 
 
 
