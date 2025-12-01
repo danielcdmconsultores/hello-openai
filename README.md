@@ -101,7 +101,7 @@ We will not be responsible for any loss or damage, including, without limitation
 
 By using these executables, you acknowledge that you have read this disclaimer of responsibilities and agree to its terms.
 
-Win Version at Virustotal!: [https://www.virustotal.com/gui/file/2dd1ff162ddd66cf0097229b2b6c30ab0e4167d230c7d30ba591da624e2fb537/detection ](https://www.virustotal.com/gui/file/92e1de5bece2b88f68636e872905b3e21c21b883486e7e2f52e8e1648485725f?nocache=1)
+Win Version at Virustotal!: [[17c0d653074d8fcd4f13fd58531afc721e6e60df6d2215de347050bbb13c47f1](https://www.virustotal.com/gui/file/17c0d653074d8fcd4f13fd58531afc721e6e60df6d2215de347050bbb13c47f1?nocache=1)
 
 
 
