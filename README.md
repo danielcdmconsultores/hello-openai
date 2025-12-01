@@ -32,7 +32,7 @@ Options:
         Maximum tokens in response (default 1000)
   
   -model string
-        OpenAI model to use (gpt-3.5-turbo, gpt-4, gpt-4-turbo) (default "gpt-3.5-turbo")
+        OpenAI model to use (gpt-3.5-turbo, gpt-4o, o1-preview, o1-mini) (default "gpt-3.5-turbo") 
   
   -query string
         Prompt to send to the AI
